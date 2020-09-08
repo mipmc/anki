@@ -35,8 +35,7 @@ The last 3 columns (F, G, H) specify the course level (in this example it's leve
 
 # The Result
 
-I'll produce Anki Learning cards from the corrected `anki.csv` files and share them [here]
-(https://ankiweb.net/shared/info/1055164593). They can be used wherever Anki can be installed. On my Android smartphone it looks like this:
+I'll produce Anki Learning cards from the corrected `anki.csv` files and share them [here](https://ankiweb.net/shared/info/1055164593). They can be used wherever Anki can be installed. On my Android smartphone it looks like this:
 
 ![Anki Learning Cards Structure](screenshots/structure.png "Anki Learning Cards Structure")
 

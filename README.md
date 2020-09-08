@@ -37,7 +37,7 @@ The last 3 columns (F, G, H) indicate the course level (in this example it's lev
 
 From the corrected `anki.csv` files I'll produce Anki Learning cards. They can be used everywhere where Anki can be installed. On my Android smartphone it looks like this:
 
-![Anki Learning Cards Structure](screenshots/structure.jpg "Anki Learning Cards Structure")
+![Anki Learning Cards Structure](screenshots/structure.png "Anki Learning Cards Structure")
 
 As you can see, the course is structured into lessons and units as the original audio course.
 
@@ -54,19 +54,19 @@ Generally, only the first occurrence of a phrase or word within a learning unit 
 
 In this mode you'll listen to the chinese audio and try to guess what it means. Click the play button to listen again.
 
-![Listening Mode](screenshots/listening01.jpg "Listening Mode")
+![Listening Mode](screenshots/listening01.png "Listening Mode")
 
 Click "Show Hanzi" to reveal the chinese characters:
 
-![Listening Mode Show Hanzi](screenshots/listening03.jpg "Listening Mode Show Hanzi")
+![Listening Mode Show Hanzi](screenshots/listening03.png "Listening Mode Show Hanzi")
 
 Click "Show Pinyin" to reveal the pinyin:
 
-![Listening Mode Show Pinyin](screenshots/listening03.jpg "Listening Mode Show Pinyin")
+![Listening Mode Show Pinyin](screenshots/listening03.png "Listening Mode Show Pinyin")
 
 Click "Show Answer" to reveal the answer:
 
-![Listening Mode Show Answer](screenshots/listening04.jpg "Listening Mode Show Answer")
+![Listening Mode Show Answer](screenshots/listening04.png "Listening Mode Show Answer")
 
 Below the answer you can see when the conversation starts in the original Pimsleur Chinese Mandarin Course, here it start's in Level 3, in Unit 1, at 4 minutes and 18 seconds.
 
@@ -74,15 +74,15 @@ Below the answer you can see when the conversation starts in the original Pimsle
 
 In this mode you'll read chinese characters and try to guess what they mean. 
 
-![Reading Mode](screenshots/reading01.jpg "Reading Mode")
+![Reading Mode](screenshots/reading01.png "Reading Mode")
 
 Click "Show Pinyin" to reveal the pinyin:
 
-![Reading Mode Show Pinyin](screenshots/reading02.jpg "Reading Mode Show Pinyin")
+![Reading Mode Show Pinyin](screenshots/reading02.png "Reading Mode Show Pinyin")
 
 Click "Show Answer" to reveal the answer:
 
-![Reading Mode Show Answer](screenshots/reading03.jpg "Reading Mode Show Answer")
+![Reading Mode Show Answer](screenshots/reading03.png "Reading Mode Show Answer")
 
 Below the answer you can see when the conversation starts in the original Pimsleur Chinese Mandarin Course, here it start's in Level 3, in Unit 1, at 4 minutes and 18 seconds.
 
@@ -90,11 +90,11 @@ Below the answer you can see when the conversation starts in the original Pimsle
 
 In this mode you have to try translate an English sentence to Chinese. You may click the play button to listen again.
 
-![Translating Mode](screenshots/translating01.jpg "Translating Mode")
+![Translating Mode](screenshots/translating01.png "Translating Mode")
 
 Click "Show Answer" to reveal the answer:
 
-![Translating Mode Show Answer](screenshots/translating02.jpg "Translating Mode Show Answer")
+![Translating Mode Show Answer](screenshots/translating02.png "Translating Mode Show Answer")
 
 You may click the play button to listen again the chinese sentence.
 Below the answer you can see when the conversation starts in the original Pimsleur Chinese Mandarin Course, here it start's in Level 3, in Unit 1, at 4 minutes and 18 seconds.

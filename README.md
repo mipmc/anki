@@ -39,7 +39,7 @@ From the corrected `anki.csv` files I'll produce Anki Learning cards. They can b
 
 ![Anki Learning Cards Structure](screenshots/structure.png "Anki Learning Cards Structure")
 
-As you can see, the course is structured into lessons and units as the original audio course.
+The Anki cards are structured into lessons and units as the original audio course.
 
 I've made three types of learning cards:
 1. Listening
@@ -58,7 +58,7 @@ In this mode you'll listen to the chinese audio and try to guess what it means. 
 
 Click "Show Hanzi" to reveal the chinese characters:
 
-![Listening Mode Show Hanzi](screenshots/listening03.png "Listening Mode Show Hanzi")
+![Listening Mode Show Hanzi](screenshots/listening02.png "Listening Mode Show Hanzi")
 
 Click "Show Pinyin" to reveal the pinyin:
 

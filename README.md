@@ -24,8 +24,7 @@ For example, the first two lines of `P3/Unit06/anki.csv` look like this:
 | What would you like to drink? | 您 想 喝 什么 | nín xiǎng hē shén me | [sound:PM3-U06-027.mp3] | [sound:PM3-U06-028.mp3] | 3 | 6 | 00m48s |
 | I'd like to drink some wine | 我想 喝 一点 葡萄酒 | wǒ xiǎng hē yī diǎn pú tao jiǔ | [sound:PM3-U06-030.mp3] | [sound:PM3-U06-031_PM3-U06-032.mp3] | 3 | 6 | 01m06s |
 
-As you can see in column B, the first chinese transcript is missing the question mark. 
-In the same line in column C, the last word of the pinyin transcript is wrong: instead if `me` it should be `hē`. Furthermore, the question mark is missing too.
+As you can see in the first line, column B and C are each missing the question mark.
 
 Your task would be to correct these errors. Once corrected, please do a [pull request](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/creating-an-issue-or-pull-request#creating-a-pull-request) so I can merge your work into the master branch.
 

@@ -2,7 +2,10 @@
 # Introduction
 
 I transformed my transcripts of Pimsleurs Mandarin Chinese course to Anki Learning Cards and share them here:
-https://ankiweb.net/shared/info/1055164593
+https://ankiweb.net/shared/info/1055164593 
+
+Update: They removed the deck but you can still get the transcripted dialogues from the [way-back-machine](https://web.archive.org/web/20090527085007/http://fizzyfizzd.angelfire.com/pretty3.html).
+
 
 As for now, there are only units 1 to 5 of a total of 30 units.
 Since these Anki Learning Cards seem to be highly appreciated by many learners (it's actually Top 2 of [all Anki Mandarin decks](https://ankiweb.net/shared/decks/mandarin)), I want to make Anki Cards also for the rest of the units.
